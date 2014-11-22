@@ -1,0 +1,31 @@
+---
+title: "Documentation for Shiny App"
+author: Abhishek Umrawal
+output: pdf_document
+---
+
+========================================================
+
+# 1. Introduction
+
+As a course project for the Developing Data Products course of the Data Science Specialization offered by Bloomberg School of Public Health of the Johns Hopkins University through Coursera, I have created a *Shiny App to perform Exploratory Data Analysis*. 
+
+## 1.1. How the evaluator should reach to this Shiny App?
+
+I have deployed this App by means of creating a GitHub Repository named as *ShinyApp* under my username *abhishekumrawal*. Everything including this documentation is shared there. The evaluator has to *simply type and run the following command on the RStudio console*:
+
+                    runGitHub( "ShinyApp", "abhishekumrawal")
+
+
+
+
+
+
+# 2. What is Mean Total Number of Steps taken per day?
+
+## 2.1 Plotting the Histogram
+
+## 2.2 Calculating Mean and Median of the Number of Steps
+
+
+**Conclusion:** The activity patterns are observed to be different between Weekdays and Weekends. Weekend activity patterns are relatively more volatile (random) as compared to Weekday activity patterns.
